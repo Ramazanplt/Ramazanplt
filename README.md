@@ -1,4 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Ramazan</h1><h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>- Şu anda Python ve Java üzerinde çalışıyorum. 📫 Bana buradan ulaşabilirsin: polatt.rmzn@gmail.com
+<h1 align="center">Merhaba 👋, ben Ramazan</h1><h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>- Şu anda Python ve Java üzerinde çalışıyorum. 
+📫 Bana buradan ulaşabilirsin: polatt.rmzn@gmail.com
 
 
 
