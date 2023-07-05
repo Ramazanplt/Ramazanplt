@@ -1,6 +1,7 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://ramazanplt.io)
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
-<img align="right" alt="coding" width="400" src="Untitled design"
+
 
 - 🔭 I’m currently working on **Python**
 
