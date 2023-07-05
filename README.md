@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
+<img align="right" alt="coding" width="400" src="Untitled design"
 
 - 🔭 I’m currently working on **Python**
 
