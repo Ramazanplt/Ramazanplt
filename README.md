@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-<img align="100" width="1000" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
+<img height="550" width="1000" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
 
 <h1 align="center">Hi, I'm Ramazan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramazanplt&label=Profile%20views&color=0e75b6&style=flat" alt="Ramazanplt" /> </p>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
+
 
 
 
