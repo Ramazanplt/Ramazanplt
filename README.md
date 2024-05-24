@@ -1,17 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)](https://ramazanplt.io)
 <h1 align="center">Hi, I'm Ramazan</h1>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsonvane88&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsonvane88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramazanplt&label=Profile%20views&color=0e75b6&style=flat" alt="Ramazanplt" /> </p>
+<img width="400" align="right" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
 
 
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **Python,R,Java**
 
-- 💬 Ask me about **Python,Html,Css**
+- 💬 Ask me about **Python,Html,Css,JavaScript**
 
 - 📫 How to reach me **polatt.rmzn@gmail.com**
 
