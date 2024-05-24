@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ramazan</h1>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramazanplt&label=Profile%20views&color=0e75b6&style=flat" alt="Ramazanplt" /> </p>
-<img width="400" align="right" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
+<img width="398" align="right" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
 
 
 
