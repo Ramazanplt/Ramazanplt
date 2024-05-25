@@ -9,7 +9,6 @@
 </div>
 
 
-<h1 align="center">Hi, I'm Ramazan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramazanplt&label=Profile%20views&color=0e75b6&style=flat" alt="Ramazanplt" /> </p>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
 
@@ -22,7 +21,7 @@
 
 - 💬 Ask me about **Python,Html,Css,JavaScript**
 
-- 📫 How to reach me **polatt.rmzn@gmail.com**
+- 📫 How to reach me: **polatt.rmzn@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
