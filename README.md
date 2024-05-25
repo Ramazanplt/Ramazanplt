@@ -1,6 +1,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 <img height="300" width="1000" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
 
+
+<div align="center">
+ <a href="https://github.com/Ramazanplt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ramazan+Polat+%e2%9c%a8;<+Software+Developer+>;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+
 <h1 align="center">Hi, I'm Ramazan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramazanplt&label=Profile%20views&color=0e75b6&style=flat" alt="Ramazanplt" /> </p>
 <h3 align="center">A Passionate Software Developer From Turkey</h3>
