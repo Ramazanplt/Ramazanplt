@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python,R,Java**
+- 🌱 I’m currently learning **Python,PostgreSQL,MySQL**
 
 - 💬 Ask me about **Python,Html,Css,JavaScript**
 
